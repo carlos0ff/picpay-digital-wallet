@@ -1,4 +1,4 @@
-<h1 align="center">💼 Desafio Técnico – PicPay</h1>
+<h1 align="center">🟢 Desafio Backend Java Júnior – PicPay</h1>
 
 <p align="center">
   Solução de carteira digital desenvolvida com integração à API oficial do <br />
