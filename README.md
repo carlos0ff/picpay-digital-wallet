@@ -1,8 +1,8 @@
 <h1 align="center">🟢 Desafio Backend Java Júnior – PicPay</h1>
 
 <p align="center">
-  Solução de carteira digital desenvolvida com integração à API oficial do <br />
-  <strong>PicPay</strong>, oferecendo funcionalidades completas para pagamentos, transferências e gestão financeira.
+  Solução de carteira digital desenvolvida com integração à API oficial do
+  <strong>PicPay</strong>,  <br /> oferecendo funcionalidades completas para pagamentos, transferências e gestão financeira.
 </p>
 
 <div align="center">
